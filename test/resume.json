@@ -1,0 +1,56 @@
+{
+  "basics": {
+    "name": "Janicev Nemanja",
+    "label": "Programmer",
+    "picture": "",
+    "email": "janicevn79@hotmail.com",
+    "phone": "0641227713",
+    "website": "howcompany.nl",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "location": {
+      "address": "Nis Rasadnik 2/3 ili Boljevac Dragise Petrovica 39/4",
+      "postalCode": "19210",
+      "city": "Boljevac",
+      "countryCode": "Sebia",
+      "region": "Serbia"
+    },
+    "profiles": []
+  },
+  "work": [
+    {
+      "company": "Web Factory",
+      "position": "Developer",
+      "website": "howcompany.nl",
+      "startDate": "2014-04-15",
+      "endDate": "ongoing",
+      "summary": ".",
+      "highlights": []
+    }
+  ], 
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Belgrade",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "204-06-01",
+      "endDate": "2007-01-01",
+      "gpa": "8",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "B2"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
